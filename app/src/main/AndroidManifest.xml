@@ -169,6 +169,7 @@
                 <data android:scheme="voicemail" />
                 <data android:scheme="view-source" />
                 <data android:scheme="sqlite" />
+                <data android:scheme="upi" />
 
                 <!-- Intercept Google play links -->
                 <data android:scheme="market" />
@@ -242,6 +243,7 @@
                 <data android:scheme="voicemail" />
                 <data android:scheme="view-source" />
                 <data android:scheme="sqlite" />
+                <data android:scheme="upi" />
 
                 <!-- Intercept Google play links -->
                 <data android:scheme="market" />
